@@ -12,4 +12,5 @@ A list with interesting projects, applications and topics found on the internet
 - https://github.com/yorukot/superfile
 - https://github.com/zaidmukaddam/scira
 - https://github.com/Abdenasser/neohtop
+- https://github.com/josephburgess/gust
 
